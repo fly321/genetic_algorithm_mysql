@@ -1,0 +1,11 @@
+{
+  "author": "fly",
+  "name": "fly",
+  "description": "fly",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "fly\\": "src/"
+    }
+  }
+}
